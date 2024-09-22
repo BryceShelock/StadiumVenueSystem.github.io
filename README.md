@@ -1,3 +1,2 @@
 # StadiumVenueSystem.github.io
->>Project's website:
->>
+# Project's website:
